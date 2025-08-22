@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rajlaxmi Panchwatkar  
+## Hi there 👋 I'm Rajlaxmi Panchawatkar  
 
 🎓 Computer Engineering Graduate (B.Tech, 2025) | 💻 Frontend Developer | 🚀 Aspiring Backend/Full-Stack Developer  
 
